@@ -30,11 +30,12 @@ My Public Info Project
    Think of it as key-value pairs.
 
 
-:Writing here:    `My Name <my.name@gmail.com>`__
+:Writing here:    Gernot Schulmeister
 :Rendered:        |today|
 :Buildinfo:       `buildinfo <_buildinfo>`_
 :Others:          `overview <..>`__
 
+.. tip:: Welcome!
 
 .. toctree::
    :hidden:
